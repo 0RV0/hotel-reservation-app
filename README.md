@@ -113,6 +113,8 @@ This separation allows the UI to be replaced (e.g., with a web UI) without chang
 
 4. Interact with the application through the CLI
 
+---
+
 ## 🔮 Future Improvements
 
 * Add persistent storage (database)
@@ -124,3 +126,5 @@ This separation allows the UI to be replaced (e.g., with a web UI) without chang
 * Add user authentication
 
 * Add automated unit tests
+
+---
