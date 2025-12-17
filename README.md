@@ -27,13 +27,12 @@ The application runs entirely in the **Command Line Interface (CLI)** and stores
 The application follows a **layered architecture** to ensure modularity and loose coupling:
 
 UI (CLI Menus)
-↓
+ → 
 Resources (API layer)
-↓
+ → 
 Services (Business Logic)
-↓
+ → 
 Models (Domain Objects)
-
 
 ### 🔹 Layers Explained
 - **UI Layer**:  
